@@ -71,14 +71,16 @@ $days = 288;
 $message = "Все возвращаются на работу!";
 
 // Вывод с конкатенацией
-echo  $days . $message "<br>";
+echo  "через" $days "дней" . $message "<br>";
 
 // Вывод с двойными кавычками
 echo  "$days . $message<br>";
 
+
 // Вывод с через print
-print $days . $message "<br>";
+print "через" $days "дней" . $message "<br>";
 print  "$days . $message <br>";
+
 ?>
 ```
 
