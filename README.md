@@ -78,7 +78,7 @@ echo  "$days . $message<br>";
 
 // Вывод с через print
 print $days . $message "<br>";
-print  "$days . $message "<br>";
+print  "$days . $message <br>";
 ?>
 ```
 
