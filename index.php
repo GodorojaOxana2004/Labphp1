@@ -8,4 +8,4 @@ echo  "$days . $message<br>";
 
 print "через" $days "дней" . $message "<br>";
 print  "$days . $message <br>";
-?>
+
