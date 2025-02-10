@@ -54,7 +54,7 @@
 ```php
 <?php
 echo "Привет, мир!";
-?>
+
 ```
 
 ### 3 Запуск программы
@@ -81,7 +81,7 @@ echo  "$days . $message<br>";
 print "через" $days "дней" . $message "<br>";
 print  "$days . $message <br>";
 
-?>
+
 ```
 
 ##  Контрольные вопросы
